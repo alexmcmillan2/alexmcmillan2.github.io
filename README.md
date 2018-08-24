@@ -1,22 +1,25 @@
-Animation testing with UIView.animate (for now), all transitions over 150ms.
+### UICollectionViewCell+Animation
+
+## Animation testing with UIView.animate (for now), all transitions over 150ms.
+_____
 
 Fade to black, 20% alpha:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadedark.gif "Fade - Dark")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/fadedark.gif "Fade - Dark")
 
 Fade to white, 30% alpha:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadelight.gif "Fade - Light")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/fadelight.gif "Fade - Light")
 
 Scale to 97%:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/scale.gif "Scale")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/scale.gif "Scale")
 
 Fade to black, 20% alpha, scale to 97%:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadedarkscale.gif "Scale, Fade - Dark")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/fadedarkscale.gif "Scale, Fade - Dark")
 
 Fade to white, 30% alpha, scale to 97%:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadelightscale.gif "Scale, Fade - Light")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/fadelightscale.gif "Scale, Fade - Light")
 
 Selection: fade to black, 20% alpha:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/select-fadedark.gif "Selection: Fade - Dark")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/select-fadedark.gif "Selection: Fade - Dark")
 
 Selection: fade to black, 20% alpha, scale to 97%:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/select-fadedarkscale.gif "Selection: Scale, Fade - Dark")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/select-fadedarkscale.gif "Selection: Scale, Fade - Dark")
