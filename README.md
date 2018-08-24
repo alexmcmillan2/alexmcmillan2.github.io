@@ -19,4 +19,4 @@ Selection: fade to black, 20% alpha:
 ![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/select-fadedark.gif "Selection: Fade - Dark")
 
 Selection: fade to black, 20% alpha, scale to 97%:
-![alt text](https://raw.githubusercontent.com/alexmcmilln2/alexmcmillan2.github.io/master/select-fadedarkscale.gif "Selection: Scale, Fade - Dark")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/select-fadedarkscale.gif "Selection: Scale, Fade - Dark")
