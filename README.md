@@ -7,7 +7,7 @@ Fade to white, 30% alpha:
 ![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadelight.gif "Fade - Light")
 
 Scale to 97%:
-![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/scale.gif "Scale"")
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/scale.gif "Scale")
 
 Fade to black, 20% alpha, scale to 97%:
 ![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadedarkscale.gif "Scale, Fade - Dark")
