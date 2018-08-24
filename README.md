@@ -1,15 +1,13 @@
 Animation testing with UIView.animate (for now), all transitions over 150ms.
 
-![alt text][image]
-
 Fade to black, 20% alpha:
-[image]: https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadedark.gif "Fade - Dark"
+![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadedark.gif "Fade - Dark")
 
-![alt text][image2]
+<!-- ![alt text][image2]
 
 Fade to white, 30% alpha:
 [image2]: https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/fadelight.gif "Fade - Light"
-<!-- 
+
 Scale to 97%:
 [image]: https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/scale.gif "Scale"
 
