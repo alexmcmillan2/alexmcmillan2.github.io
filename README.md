@@ -1,7 +1,6 @@
-### UICollectionViewCell+Animation
+## UICollectionViewCell+Animation
 
-## Animation testing with UIView.animate (for now), all transitions over 150ms.
-_____
+### Animation testing with UIView.animate (for now), all transitions over 150ms.
 
 Fade to black, 20% alpha:
 ![alt text](https://raw.githubusercontent.com/alexmcmillan2/alexmcmillan2.github.io/master/images/fadedark.gif "Fade - Dark")
